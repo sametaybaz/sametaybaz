@@ -3,6 +3,10 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello Welcome My Github Profile👋)](https://git.io/typing-svg)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text"/></a>
+
+
+
 <!--
 **sametaybaz/sametaybaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
