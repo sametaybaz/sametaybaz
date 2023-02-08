@@ -1,7 +1,7 @@
 ## HI I'M ABDULSAMET AYBAZ YOU CAN CALL ME JUST SAMET👋
 ## SOFTWARE DEVELOPER AND ECOLE 42 SOFTWARE SCHOOL STUDENT
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello Welcome My Github Profile👋)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello Welcome My Github Profile👋)](https://git.io/typing-svg)
 
 <!--
 **sametaybaz/sametaybaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
