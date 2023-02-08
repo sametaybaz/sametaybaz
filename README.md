@@ -1,8 +1,6 @@
 ## HI I'M ABDULSAMET AYBAZ YOU CAN CALL ME JUST SAMET👋
 ## SOFTWARE DEVELOPER AND ECOLE 42 SOFTWARE SCHOOL STUDENT
 
-![im-professional-chris-ode](https://user-images.githubusercontent.com/87485705/217519187-8705c539-db47-4d49-9323-7ba5feb45bf0.gif)
-
 <!--
 **sametaybaz/sametaybaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
