@@ -1,7 +1,4 @@
-## HI I'M ABDULSAMET AYBAZ YOU CAN CALL ME JUST SAMET👋
-## SOFTWARE DEVELOPER AND ECOLE 42 SOFTWARE SCHOOL STUDENT
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+My+Github+Profile+%F0%9F%91%8B;I+hope+You+like+it+.)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+My+Github+Profile+%F0%9F%91%8B;I+hope+You+like+it+." alt="Typing SVG" /></a>
 
 
