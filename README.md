@@ -17,6 +17,10 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     
 </div>
+  
+  
+| :keyboard:  &nbsp; [Common Core Exams - Click Here]([https://github.com/pasqualerossi/42-Exams](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054))| 
+|:--|
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametaybaz&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
