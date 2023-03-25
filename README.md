@@ -22,6 +22,10 @@
   
   | :keyboard:  &nbsp; [Common Core Exam_02 - Click Here](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054)| 
 |:--|
+  
+  <br> <br>
+  
+&emsp;[![LinkedIn - Nacer KRAA](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamet-aybaz/)&emsp;
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametaybaz&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
