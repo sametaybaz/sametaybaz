@@ -18,8 +18,9 @@
     
 </div>
   
+ <br>
   
-| :keyboard:  &nbsp; [Common Core Exams - Click Here]([https://github.com/pasqualerossi/42-Exams](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054))| 
+| :keyboard:  &nbsp; [Common Core Exams - Click Here]([https://github.com/pasqualerossi/42-Exams](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054)| 
 |:--|
 
 <!--
