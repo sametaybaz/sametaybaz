@@ -25,7 +25,9 @@
   
   ## 📫 How to reach me ...
   
-  &emsp;[![LinkedIn - Abdulsamet Aybaz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamet-aybaz-b38828192/)&emsp
+  &emsp;[![LinkedIn - Abdulsamet Aybaz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamet-aybaz-b38828192/)&emsp;
+  &emsp;[![Instagram - @nacerkraa](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/nacerkraa/)&emsp;
+  
   
 
 <!--
