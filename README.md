@@ -20,10 +20,13 @@
   
   ## ✨ About Ecole 42 ...
   
-  | :keyboard:  &nbsp; [Common Core Exam_02 - Click Here](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054)| 
+  | ⌨️  &nbsp; [Common Core Exam_02 - Click Here](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054)| 
 |:--|
   
-  ## :mag_right: Look at My Gist Notes 
+  ## 🔎 Look at My Gist Notes 
+   
+  | 📑  &nbsp; [Github My Gist - Click Here](https://gist.github.com/sametaybaz)| 
+|:--|
   
   ## 📫 How to reach me ...
   
