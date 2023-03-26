@@ -14,8 +14,7 @@
  
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
 </div>
   
   ## ✨ About Ecole 42 ...
@@ -31,7 +30,8 @@
   ## 📫 How to reach me ...
   
   &emsp;[![LinkedIn - Abdulsamet Aybaz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamet-aybaz-b38828192/)&emsp;
-
+</div>
+  
   
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametaybaz&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
