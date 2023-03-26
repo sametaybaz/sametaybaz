@@ -5,7 +5,7 @@
  
 <a href="https://git.io/typing-svg" class = "auto-type"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+My+Github+Profile+%F0%9F%91%8B;I+hope+You+like+it+." alt="Typing SVG" /></a>
   
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +17,7 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
 </div>
   
-  ## ✨ About Ecole 42 ...
+  ## ✨ About Ecole 42
   
   | ⌨️  &nbsp; [Common Core Exam_02 - Click Here](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054)| 
 |:--|
@@ -27,7 +27,7 @@
   | 📑  &nbsp; [Github My Gist - Click Here](https://gist.github.com/sametaybaz)| 
 |:--|
   
-  ## 📫 How to reach me ...
+  ## 📫 How to reach me
   
   &emsp;[![LinkedIn - Abdulsamet Aybaz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamet-aybaz-b38828192/)&emsp;
 
