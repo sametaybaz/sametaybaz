@@ -17,7 +17,7 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
 </div>
   
-  ## ✨ About Ecole 42
+  ## 🏫 About Ecole 42
   
   | ⌨️  &nbsp; [Common Core Exam_02 - Click Here](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054)| 
 |:--|
