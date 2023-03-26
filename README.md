@@ -1,11 +1,9 @@
-<div style="margin-left: auto; margin-right: auto;">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://tenor.com/bqrUA.gif">
+
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://tenor.com/bqrUA.gif">
   
-  ![coding](https://user-images.githubusercontent.com/87485705/217585443-c2d1afb4-5cb0-478e-93a7-a89b1b7b9fa2.gif)
+![coding](https://user-images.githubusercontent.com/87485705/217585443-c2d1afb4-5cb0-478e-93a7-a89b1b7b9fa2.gif)
  
 <a href="https://git.io/typing-svg" class = "auto-type"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+My+Github+Profile+%F0%9F%91%8B;I+hope+You+like+it+." alt="Typing SVG" /></a>
-
- </div>
   
 ## 🔭 I’m currently working on ...
 
