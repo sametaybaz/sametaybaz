@@ -30,8 +30,12 @@
   ## 📫 How to reach me
   
   &emsp;[![LinkedIn - Abdulsamet Aybaz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamet-aybaz-b38828192/)&emsp;
+  
 
 <!--
+
+![Visitor Count](https://profile-counter.glitch.me/{sametaybaz}/count.svg) 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametaybaz&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **sametaybaz/sametaybaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
