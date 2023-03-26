@@ -23,6 +23,8 @@
   | :keyboard:  &nbsp; [Common Core Exam_02 - Click Here](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054)| 
 |:--|
   
+  ## :mag_right: Look at My Gist Notes 
+  
   ## 📫 How to reach me ...
   
   &emsp;[![LinkedIn - Abdulsamet Aybaz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamet-aybaz-b38828192/)&emsp;
