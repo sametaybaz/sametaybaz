@@ -19,7 +19,7 @@
   
   ## 🏫 About Ecole 42
   
-  | ⌨️  &nbsp; [Common Core Exam_02 - Click Here](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054)| 
+  | ⌨️  &nbsp; [Exam_02 Prep Gist- Click Here](https://gist.github.com/sametaybaz/301f130d9363b66c2685d65218649054)| 
 |:--|
   
   ## 🔎 Look at My Github Gist Notes
